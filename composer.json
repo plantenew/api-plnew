@@ -1,0 +1,17 @@
+{
+    "name": "hnk/plantenewapi",
+    "require": {
+        "silex/silex": "2.0.4"
+    },
+    "autoload": {
+        "psr-4":{
+            "plantenew\\app\\": "library/"
+        }
+    },
+    "authors": [
+        {
+            "name": "hnkalbuquerque",
+            "email": "henrique.albuquerque@fatec.sp.gov.br"
+        }
+    ]
+}
